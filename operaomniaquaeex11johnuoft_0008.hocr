@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomniaquaeex11johnuoft/operaomniaquaeex11johnuoft_0008.png"; bbox 0 0 1774 2845; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 966 2416 1481 2494">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 966 2416 1481 2494">
+     <span class='ocr_line' id='line_1_1' title="bbox 966 2416 1481 2448; baseline -0.006 -6"><span class='ocrx_word' id='word_1_1' title='bbox 966 2418 1060 2442; x_wconf 76' lang='lat' dir='ltr'>TYPIS</span> <span class='ocrx_word' id='word_1_2' title='bbox 1078 2417 1219 2448; x_wconf 82' lang='lat' dir='ltr'><strong>MOQUET</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1238 2417 1282 2441; x_wconf 89' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_4' title='bbox 1299 2416 1481 2446; x_wconf 74' lang='lat' dir='ltr'>SOCIORUM,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1082 2465 1379 2494; baseline -0.01 -6"><span class='ocrx_word' id='word_1_5' title='bbox 1082 2471 1122 2489; x_wconf 69' lang='lat' dir='ltr'>vm</span> <span class='ocrx_word' id='word_1_6' title='bbox 1141 2472 1170 2488; x_wconf 66' lang='lat' dir='ltr'>LA</span> <span class='ocrx_word' id='word_1_7' title='bbox 1189 2471 1275 2494; x_wconf 65' lang='lat' dir='ltr'>mave,</span> <span class='ocrx_word' id='word_1_8' title='bbox 1295 2468 1320 2486; x_wconf 63' lang='lat' dir='ltr'>M*</span> <span class='ocrx_word' id='word_1_9' title='bbox 1339 2465 1379 2488; x_wconf 72' lang='lat'>90,</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
